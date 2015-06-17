@@ -15,3 +15,5 @@ All the data is scraped from http://bomberosperu.gob.pe/po_diario.asp
    echo "Nro. Parte: ".$div->find('td.lineaizq', 1)->plaintext;
  }
 ```
+
+You can visit http://databomberos.com to see how use data
